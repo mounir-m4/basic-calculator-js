@@ -82,3 +82,6 @@ inputBtns.forEach(inputBtn => {
 
 // clear event
 clearBtn.addEventListener('click', resetAll);
+
+
+// fork promena
